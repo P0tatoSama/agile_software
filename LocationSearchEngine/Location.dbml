@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Location" Class="LocationDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Location.mdf;Integrated Security=True" SettingsObjectName="LocationSearchEngine.My.MySettings" SettingsPropertyName="LocationConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Location" Member="Locations">
+    <Type Name="Location">
+      <Column Name="Location" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="[Post Office]" Member="Post_Office" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="State" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Postcode" Type="System.Decimal" DbType="Decimal(5,0) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
