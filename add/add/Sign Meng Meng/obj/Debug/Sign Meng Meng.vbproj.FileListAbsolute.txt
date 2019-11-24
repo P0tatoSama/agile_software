@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign Meng Meng.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign_Meng_Meng.Form1.resources
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign_Meng_Meng.Resources.resources
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign Meng Meng.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Location.mdf
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Location_log.ldf
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Sign Meng Meng.exe.config
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Sign Meng Meng.exe
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Sign Meng Meng.pdb
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\bin\Debug\Sign Meng Meng.xml
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign Meng Meng.exe
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign Meng Meng.xml
+C:\Users\User\Desktop\Sign Meng Meng\Sign Meng Meng\obj\Debug\Sign Meng Meng.pdb
