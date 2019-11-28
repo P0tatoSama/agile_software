@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Location\Location\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Location\Location\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.exe.config
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.exe
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.pdb
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.xml
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.Form1.resources
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.Resources.resources
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.exe
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.xml
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.pdb
