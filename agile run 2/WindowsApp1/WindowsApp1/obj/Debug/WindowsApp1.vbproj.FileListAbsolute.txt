@@ -10,3 +10,4 @@ C:\Users\USER\Desktop\agile run 2\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.
 C:\Users\USER\Desktop\agile run 2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 C:\Users\USER\Desktop\agile run 2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\USER\Desktop\agile run 2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\USER\Desktop\agile run 2\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
