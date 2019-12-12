@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\Location\Location\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\Location\Location\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.exe.config
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.exe
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.pdb
+C:\Users\User\Desktop\Location\Location\bin\Debug\Location.xml
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.Form1.resources
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.Resources.resources
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.exe
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.xml
+C:\Users\User\Desktop\Location\Location\obj\Debug\Location.pdb
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Location.exe.config
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Location.exe
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Location.pdb
+C:\Users\User\Desktop\This sem's assignments\Location\Location\bin\Debug\Location.xml
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.Form1.resources
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.Resources.resources
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.exe
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.xml
+C:\Users\User\Desktop\This sem's assignments\Location\Location\obj\Debug\Location.pdb
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Database1.mdf
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Database1_log.ldf
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Location.exe.config
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Location.exe
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Location.pdb
+C:\Users\USER\Desktop\agile moogi\Location\Location\bin\Debug\Location.xml
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.Form1.resources
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.Resources.resources
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.exe
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.xml
+C:\Users\USER\Desktop\agile moogi\Location\Location\obj\Debug\Location.pdb
+C:\Users\USER\Desktop\Location\Location\obj\Debug\Location.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Location\Location\obj\Debug\Location.Form2.resources
