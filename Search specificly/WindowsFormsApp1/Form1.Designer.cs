@@ -30,6 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.streetDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.suburbDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tableBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.locationDataSet = new WindowsFormsApp1.locationDataSet();
             this.tableTableAdapter = new WindowsFormsApp1.locationDataSetTableAdapters.TableTableAdapter();
@@ -39,10 +43,6 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.locationDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.tableBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.streetDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.suburbDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tableBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.locationDataSet)).BeginInit();
@@ -67,8 +67,44 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(737, 349);
+            this.dataGridView1.Size = new System.Drawing.Size(739, 349);
             this.dataGridView1.TabIndex = 4;
+            // 
+            // idDataGridViewTextBoxColumn
+            // 
+            this.idDataGridViewTextBoxColumn.DataPropertyName = "Id";
+            this.idDataGridViewTextBoxColumn.HeaderText = "Id";
+            this.idDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.ReadOnly = true;
+            this.idDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // streetDataGridViewTextBoxColumn
+            // 
+            this.streetDataGridViewTextBoxColumn.DataPropertyName = "Street";
+            this.streetDataGridViewTextBoxColumn.HeaderText = "Street";
+            this.streetDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.streetDataGridViewTextBoxColumn.Name = "streetDataGridViewTextBoxColumn";
+            this.streetDataGridViewTextBoxColumn.ReadOnly = true;
+            this.streetDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // suburbDataGridViewTextBoxColumn
+            // 
+            this.suburbDataGridViewTextBoxColumn.DataPropertyName = "Suburb";
+            this.suburbDataGridViewTextBoxColumn.HeaderText = "Suburb";
+            this.suburbDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.suburbDataGridViewTextBoxColumn.Name = "suburbDataGridViewTextBoxColumn";
+            this.suburbDataGridViewTextBoxColumn.ReadOnly = true;
+            this.suburbDataGridViewTextBoxColumn.Width = 125;
+            // 
+            // cityDataGridViewTextBoxColumn
+            // 
+            this.cityDataGridViewTextBoxColumn.DataPropertyName = "City";
+            this.cityDataGridViewTextBoxColumn.HeaderText = "City";
+            this.cityDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.cityDataGridViewTextBoxColumn.Name = "cityDataGridViewTextBoxColumn";
+            this.cityDataGridViewTextBoxColumn.ReadOnly = true;
+            this.cityDataGridViewTextBoxColumn.Width = 125;
             // 
             // tableBindingSource
             // 
@@ -133,42 +169,6 @@
             // 
             this.tableBindingSource1.DataMember = "Table";
             this.tableBindingSource1.DataSource = this.locationDataSetBindingSource;
-            // 
-            // idDataGridViewTextBoxColumn
-            // 
-            this.idDataGridViewTextBoxColumn.DataPropertyName = "Id";
-            this.idDataGridViewTextBoxColumn.HeaderText = "Id";
-            this.idDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
-            this.idDataGridViewTextBoxColumn.ReadOnly = true;
-            this.idDataGridViewTextBoxColumn.Width = 125;
-            // 
-            // streetDataGridViewTextBoxColumn
-            // 
-            this.streetDataGridViewTextBoxColumn.DataPropertyName = "Street";
-            this.streetDataGridViewTextBoxColumn.HeaderText = "Street";
-            this.streetDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.streetDataGridViewTextBoxColumn.Name = "streetDataGridViewTextBoxColumn";
-            this.streetDataGridViewTextBoxColumn.ReadOnly = true;
-            this.streetDataGridViewTextBoxColumn.Width = 125;
-            // 
-            // suburbDataGridViewTextBoxColumn
-            // 
-            this.suburbDataGridViewTextBoxColumn.DataPropertyName = "Suburb";
-            this.suburbDataGridViewTextBoxColumn.HeaderText = "Suburb";
-            this.suburbDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.suburbDataGridViewTextBoxColumn.Name = "suburbDataGridViewTextBoxColumn";
-            this.suburbDataGridViewTextBoxColumn.ReadOnly = true;
-            this.suburbDataGridViewTextBoxColumn.Width = 125;
-            // 
-            // cityDataGridViewTextBoxColumn
-            // 
-            this.cityDataGridViewTextBoxColumn.DataPropertyName = "City";
-            this.cityDataGridViewTextBoxColumn.HeaderText = "City";
-            this.cityDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.cityDataGridViewTextBoxColumn.Name = "cityDataGridViewTextBoxColumn";
-            this.cityDataGridViewTextBoxColumn.ReadOnly = true;
-            this.cityDataGridViewTextBoxColumn.Width = 125;
             // 
             // Form1
             // 
