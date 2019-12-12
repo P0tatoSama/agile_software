@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\bin\Debug\location.mdf
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\bin\Debug\location_log.ldf
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\Search specificly\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
